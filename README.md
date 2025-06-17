@@ -23,8 +23,8 @@ In this assessment, we will take a Figma design from [Frontend Mentor](https://w
 
 - git clone https://github.com/urmee04/Design-and-Development.git
 - cd testimonials-grid-section-main
-- cd design.html
-- open design.html
+- cd card.html
+- open card.html
 
 #### Design Specifications
 - Mobile width: 375px
@@ -33,7 +33,7 @@ In this assessment, we will take a Figma design from [Frontend Mentor](https://w
 
 - Font family: Barlow Semi Condensed
 
-- Font weights: 400, 600
+- Font weights: 500, 600
 
 ##### Colors:
 
