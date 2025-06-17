@@ -19,7 +19,7 @@ In this assessment, we will take a Figma design from [Frontend Mentor](https://w
 
 1. Clone the repository or download the ZIP.
 2. Be sure to maintain the folder structure.
-3. Open `design.html` in your browser to view the card.
+3. Open `card.html` in your browser to view the card.
 
 - git clone https://github.com/urmee04/Design-and-Development.git
 - cd testimonials-grid-section-main
